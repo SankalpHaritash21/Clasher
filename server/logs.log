@@ -1,0 +1,5 @@
+{"level":"error","message":{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"535 5.7.8 Authentication failed","responseCode":535},"type":"Email Error"},"timestamp":"2024-10-24T01:26:44.506Z"}
+{"level":"error","message":{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"535 5.7.8 Authentication failed","responseCode":535},"type":"Email Error"},"timestamp":"2024-10-24T01:27:52.153Z"}
+{"level":"error","message":{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"535 5.7.8 Authentication failed","responseCode":535},"type":"Email Error"},"timestamp":"2024-10-24T01:27:53.999Z"}
+{"level":"error","message":{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"535 5.7.8 Authentication failed","responseCode":535},"type":"Email Error"},"timestamp":"2024-10-24T01:27:55.097Z"}
+{"level":"error","message":{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"535 5.7.8 Authentication failed","responseCode":535},"type":"Email Error"},"timestamp":"2024-10-24T01:31:40.089Z"}
